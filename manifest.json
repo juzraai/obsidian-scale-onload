@@ -1,0 +1,10 @@
+{
+  "id": "juzraai-scale-onload",
+  "name": "juzraai-scale-onload",
+  "version": "1.0.0",
+  "minAppVersion": "1.12.7",
+  "description": "Sets the interface zoom level when the application starts",
+  "author": "Zsolt Jurányi",
+  "authorUrl": "https://github.com/juzraai"
+}
+
